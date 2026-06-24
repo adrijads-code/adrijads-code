@@ -11,9 +11,10 @@ Welcome to my digital workspace 💻
 * **Environment:** GitHub / Spck Editor
 
 ### Beyond the Code
-<div style="margin:0; padding:0;">
-Crafting efficient user interfaces and experimenting across various technical domains.<br>Driven by logic, clean architecture, and building things that work.
-</div>
+
+* Crafting efficient user interfaces and experimenting across various technical domains.
+* Driven by logic, clean architecture, and building things that work.
+
 
 
 
